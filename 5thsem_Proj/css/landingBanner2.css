@@ -1,0 +1,276 @@
+/* .bigdiv{
+    display: flex;
+}
+
+.subdiv_img{
+    display: flex;
+    font-family: "Montserrat";
+}
+
+.easy{
+    margin-top: 91px;
+    margin-left: 50px;
+    max-height: 136px;
+    max-width: 136px;
+
+}
+.everyone{
+    margin-top: 266px;
+    margin-left: -188px;
+    max-height: 221px;
+    max-width: 136px
+
+}
+.settings{
+    margin-top: 89px;
+    margin-left: 88px;
+    max-height: 136px;
+    max-width: 124px;
+}
+
+.Hassle{
+    margin-top: 292px;
+    margin-left: -147px;
+    max-height: 136px;
+
+}
+.easy_text{
+    margin-top: 246px;
+    margin-left: -126px;
+    font-size: 22px;
+    width: 177px;
+    font-weight: 1000;
+
+}
+.everyone_text{
+    margin-top: 437px;
+    margin-left: -136px;
+    font-size: 22px;
+    width: 150px;
+    font-weight: 1000;
+
+}
+.settings_text{
+    margin-top: 245px;
+    margin-left: -131px;
+    font-size: 22px;
+    width: 154px;
+    font-weight: 1000;
+}
+.hassle_text{
+    margin-top: 436px;
+    margin-left: -125px;
+    font-size: 22px;
+    width: 150px;
+    font-weight: 1000;
+}
+.reason{
+    display: flex;
+    font-family: "Montserrat";
+    max-width: 1000px;
+}
+.span{
+    font-size: 38px;
+    font-weight: 1000px; 
+    width: 530px;
+    margin-top: 237px;
+} */
+
+.bigdiv{
+    display: flex;
+}
+
+.subdiv_img{
+    display: flex;
+
+
+}
+
+.easy{
+    margin-top: 91px;
+    margin-left: 50px;
+    max-height: 136px;
+    max-width: 136px;
+
+}
+.everyone{
+    margin-top: 266px;
+    margin-left: -188px;
+    max-height: 221px;
+    max-width: 136px
+
+}
+.settings{
+    margin-top: 89px;
+    margin-left: 88px;
+    max-height: 136px;
+    max-width: 124px;
+}
+
+.Hassle{
+    margin-top: 292px;
+    margin-left: -147px;
+    max-height: 136px;
+
+}
+.easy_text{
+    margin-top: 246px;
+    margin-left: -126px;
+    font-size: 22px;
+    width: 177px;
+    /* font-weight: 300; */
+    font-family: "Montserrat";
+    font-weight: 400;
+
+
+}
+.everyone_text{
+    margin-top: 437px;
+    margin-left: -136px;
+    font-size: 22px;
+    width: 150px;
+    /* font-weight: 300; */
+    font-family: "Montserrat";
+    font-weight: 400;
+
+}
+.settings_text{
+    margin-top: 245px;
+    margin-left: -131px;
+    font-size: 22px;
+    width: 154px;
+    /* font-weight: 300; */
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+.hassle_text{
+    margin-top: 436px;
+    margin-left: -125px;
+    font-size: 22px;
+    width: 150px;
+    /* font-weight: 300; */
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+.reason{
+    display: flex;
+    font-family: "Montserrat";
+    max-width: 1000px;
+}
+.span{
+    font-size: 38px;
+    font-weight: 700;
+    width: 530px;
+    margin-top: 237px;
+    margin-left: 150px;
+
+
+}
+
+.lekha{
+    margin-top: 290px;
+    margin-left: -524px;
+    max-width: 379px;
+    font-weight: 400;
+    
+}
+.todo{
+    color:rgba(60, 110, 113, 1);
+}
+.ready_box{
+    display: flex;
+    width: 1000px;
+    height: 185px;
+    background-color: rgba(60, 110, 113, 1);
+    display: flex;
+    margin-left: 66px;
+    margin-top: 172px;
+    border-radius: 58px;
+
+}
+.ready {
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 37px;
+    max-width: 457px;
+    margin-top: 66px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.start {
+    color: rgba(255, 255, 255, 1);
+    /* justify-content: center; */
+    /* align-items: center; */
+    font-size: 28px;
+    /* font-weight: 700; */
+    margin-top: 46px;
+    margin-left: 162px;
+    width: 335px;
+    height: 86px;
+    /* display: flex; */
+    border-radius: 28px;
+    background: rgba(40, 75, 99, 1);
+    border: none;
+    font-family: "Montserrat";
+    font-weight: 400;
+    cursor: pointer;
+}
+
+footer {
+    height: 100px;
+    padding: 2px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+
+footer ul li {
+    margin: 10px;
+
+}
+
+footer ul {
+    margin-top: 418px;
+    margin-right: 29px;
+}
+.navright1 {
+    text-align: right;
+    margin-right: 469px;
+    margin-top: -444px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.navright1 ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.navright1 li {
+    display: inline;
+
+}
+.navleft1 {
+    font-size: 16px;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 190px;
+}
+
+
+header ul li {
+    margin: 10px;
+
+}
+.A{
+    background-color: rgba(40, 75, 99, 1);
+    border-radius: 13px;
+    border: none;
+    color: white;
+    width: 68px;
+    height: 29px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    cursor: pointer;
+}
